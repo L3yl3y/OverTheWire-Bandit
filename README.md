@@ -6,3 +6,6 @@ These wargames teach you the basics of cybersecurity through hands-on challenges
 First, if you know a command, but don’t know how to use it, try the manual (man page) by entering man <command>. For example, man ls to learn about the “ls” command. The “man” command also has a manual, try it! When using man, press q to quit (you can also use / and n and N to search).
 
 Note, I have attached 2 documents --> a pdf with all the answers and another pdf that details my working out and thought process.
+
+
+
